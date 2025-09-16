@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## SCREENSHOTS
+- Form to add new image. User must inform the id (a good improvement would be manage the user access using login auth and tokens)
+<img width="1336" height="677" alt="image" src="https://github.com/user-attachments/assets/5e7fef62-f230-4a7e-af65-bc98114b5825" />
+
+- Carosel of images, it changes the images automatically after some seconds. User can change manually the images and delete it clicking on the trash button.
+  <img width="1587" height="801" alt="image" src="https://github.com/user-attachments/assets/e2446592-7702-408f-a3ca-e9dc6c012a29" />
+
+- Adding image after reaching limit of 10 per user
+<img width="1899" height="902" alt="image" src="https://github.com/user-attachments/assets/01067683-3bde-4f13-9fb1-d7c2a754d698" />
